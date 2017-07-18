@@ -1,0 +1,41 @@
+/*CSS reset settings here*/
+*{
+ margin: 5px;
+ padding: 0px;
+ border-radius: 15px;
+ color: white;
+}
+#wrapper{
+ width: 970px;
+ background-color: darkblue;
+ margin: 0px auto;
+ padding: 10px;
+}
+#header{
+ background-color: red;
+ padding: 10px;
+}
+#navigation{
+ background-color: teal;
+ display: inline-block;
+ font-size: 14px;
+ padding: 10px;
+}
+#main_content{
+ width: 700px;
+ background-color: black;
+ display: inline-block;
+ vertical-align: top;
+ padding: 15px;
+}
+#footer{
+ background-color: silver;
+ padding: 10px;
+ font-size: 14px;
+}
+a{
+ color: turquoise;
+}
+span{
+ color:blue;
+}
